@@ -1,4 +1,4 @@
-//Timothy Ng
+//Tim
 //Feb 28 2018
 //Code Creates four different pyramids determined by user input:
 //Exemplifies use of nested for-loops. See bottom for expected output
