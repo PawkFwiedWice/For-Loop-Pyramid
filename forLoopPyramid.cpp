@@ -1,7 +1,7 @@
 //Timothy Ng
 //Feb 28 2018
 //Code Creates four different pyramids determined by user input:
-//Exemplifies use of nested for-loops.
+//Exemplifies use of nested for-loops. See bottom for expected output
 
 #include <iostream>
 using namespace std;
